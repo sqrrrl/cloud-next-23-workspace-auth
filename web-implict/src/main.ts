@@ -128,7 +128,7 @@ export class AuthDemo extends LitElement {
         scope: scope,
         callback: async (response: any) => {
           if (response
-            && response.access_token
+            && response.access_token,
             && google.accounts.oauth2.hasGrantedAnyScope(response, scope)) {
             this._error = null;
             this._accessToken = response.access_token;
