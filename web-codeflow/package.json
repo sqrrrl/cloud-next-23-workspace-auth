@@ -18,7 +18,7 @@
     "iron-session": "^6.3.1",
     "lit": "^2.7.6",
     "typescript": "^5.1.6",
-    "vite": "^2.2.1"
+    "vite": "^2.9.17"
   },
   "license": "Apache-2.0"
 }
