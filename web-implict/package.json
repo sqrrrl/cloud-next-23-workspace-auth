@@ -12,7 +12,7 @@
     "@types/node": "^20.4.5",
     "autoprefixer": "^10.4.14",
     "typescript": "^5.1.6",
-    "vite": "^4.4.5"
+    "vite": "^4.5.2"
   },
   "dependencies": {
     "lit": "^2.7.6"
